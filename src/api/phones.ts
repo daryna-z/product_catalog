@@ -1,7 +1,7 @@
 import { Phone } from '../types/Phone';
 import { PhoneItem } from '../types/PhoneItem';
 
-const BASE_URL = 'https://productcatalogapi-production-840a.up.railway.app';
+const BASE_URL = 'https://product-catalog-afj2.onrender.com';
 
 type QueryParams = {
   page?: string,
